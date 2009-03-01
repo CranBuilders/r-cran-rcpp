@@ -37,6 +37,7 @@ $(PKGLIB): 	$(PKGOBJ)
 		$(CXX) -shared -o $(PKGLIB) $(PKGOBJ) $(PKGLDFLAGS)
 
 $(USERLIB):	$(USEROBJ)
+		-mkdir -p $(USERDIR) 2>/dev/null
 		ar r $(USERLIB) $(USEROBJ)
 		ranlib $(USERLIB)
 		cp -vax Rcpp.h $(USERDIR)

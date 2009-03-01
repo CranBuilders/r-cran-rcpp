@@ -1,3 +1,12 @@
+rcpp (0.6.4-1) unstable; urgency=low
+
+  * New release
+
+  * debian/r-cran-rcpp.lintian-overrides: Added to suppress lintian
+    warnings over Doxygen-generated png files
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 01 Mar 2009 17:41:58 -0600
+
 rcpp (0.6.3-1) unstable; urgency=low
 
   * New release
