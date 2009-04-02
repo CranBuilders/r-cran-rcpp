@@ -84,3 +84,4 @@ r-cran-rcpp: image-file-in-usr-lib usr/lib/R/site-library/Rcpp/doc/html/tab_b.gi
 r-cran-rcpp: image-file-in-usr-lib usr/lib/R/site-library/Rcpp/doc/html/tab_l.gif
 r-cran-rcpp: image-file-in-usr-lib usr/lib/R/site-library/Rcpp/doc/html/tab_r.gif
 r-cran-rcpp: duplicate-font-file usr/lib/R/site-library/Rcpp/doc/latex/FreeSans.ttf also in ttf-freefont
+r-cran-rcpp: extra-license-file usr/lib/R/site-library/Rcpp/COPYING

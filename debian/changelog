@@ -1,3 +1,11 @@
+rcpp (0.6.5-1) unstable; urgency=low
+
+  * New release
+  
+  * COPYING: Added license file 			(Closes: #522202)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 01 Apr 2009 21:34:33 -0500
+
 rcpp (0.6.4-1) unstable; urgency=low
 
   * New release
