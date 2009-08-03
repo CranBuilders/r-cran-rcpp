@@ -2,13 +2,13 @@ Source: rcpp
 Section: gnu-r
 Priority: optional
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
-Build-Depends: debhelper (>= 5.0.0), r-base-dev (>= 2.8.0), cdbs
-Standards-Version: 3.8.1
+Build-Depends: debhelper (>= 5.0.0), r-base-dev (>= 2.9.1), cdbs
+Standards-Version: 3.8.2
 Homepage: http://dirk.eddelbuettel.com/code/rcpp.html
 
 Package: r-cran-rcpp
 Architecture: any
-Depends: ${shlibs:Depends}, r-base-core (>= 2.8.0)
+Depends: ${shlibs:Depends}, r-base-core (>= 2.9.1)
 Description: GNU R / C++ interface classes and examples
  The Rcpp package map data types betweeen R and C++, 
  and includes support for R types real, integer, character, 
