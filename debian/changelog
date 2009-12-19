@@ -1,3 +1,11 @@
+rcpp (0.7.0-1) unstable; urgency=low
+
+  * New release
+
+  * debian/control: Added littler to Depends: as example use it [lintian]
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 19 Dec 2009 14:18:32 -0600
+
 rcpp (0.6.8-1) unstable; urgency=low
 
   * New release

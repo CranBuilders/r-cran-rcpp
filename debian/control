@@ -8,7 +8,7 @@ Homepage: http://dirk.eddelbuettel.com/code/rcpp.html
 
 Package: r-cran-rcpp
 Architecture: any
-Depends: ${shlibs:Depends}, r-base-core (>= 2.10.0)
+Depends: ${shlibs:Depends}, r-base-core (>= 2.10.0), littler
 Description: GNU R / C++ interface classes and examples
  The Rcpp package map data types betweeen R and C++, 
  and includes support for R types real, integer, character, 
