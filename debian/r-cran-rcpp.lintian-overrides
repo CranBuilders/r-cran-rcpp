@@ -24,3 +24,5 @@ r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.Symbol.R
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.as.R
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.wrap.R
+r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/discovery/cxx0x.R
+r-cran-rcpp: script-uses-bin-env ./usr/lib/R/site-library/Rcpp/discovery/cxx0x.R
