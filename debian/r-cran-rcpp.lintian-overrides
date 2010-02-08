@@ -34,4 +34,5 @@ r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.RcppVector.R
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.RcppVectorView.R
 r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.clone.R
+r-cran-rcpp: script-not-executable ./usr/lib/R/site-library/Rcpp/unitTests/runit.traits.R
 r-cran-rcpp: script-uses-bin-env ./usr/lib/R/site-library/Rcpp/discovery/cxx0x.R
