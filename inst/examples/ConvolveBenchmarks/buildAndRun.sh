@@ -14,6 +14,13 @@ R CMD SHLIB convolve2_cpp.cpp
 R CMD SHLIB convolve3_cpp.cpp
 R CMD SHLIB convolve4_cpp.cpp
 R CMD SHLIB convolve5_cpp.cpp
+R CMD SHLIB convolve8_cpp.cpp
+R CMD SHLIB convolve9_cpp.cpp
+R CMD SHLIB convolve10_cpp.cpp
+R CMD SHLIB convolve11_cpp.cpp
+R CMD SHLIB convolve12_cpp.cpp
+R CMD SHLIB convolve14_cpp.cpp
 
 # call R so that we get an interactive session
-Rscript exampleRCode.r 
+Rscript exampleRCode.r
+
