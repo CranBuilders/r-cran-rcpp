@@ -1,7 +1,7 @@
 Package: Rcpp
 Title: Seamless R and C++ Integration
-Version: 0.9.0
-Date: $Date: 2010-12-19 18:36:29 -0600 (Sun, 19 Dec 2010) $
+Version: 0.9.1
+Date: $Date: 2011-02-14 06:55:20 -0600 (Mon, 14 Feb 2011) $
 Author: Dirk Eddelbuettel and Romain Francois, 
  with contributions by Douglas Bates and John Chambers
 Maintainer: Dirk Eddelbuettel and Romain Francois <RomainAndDirk@r-enthusiasts.com>
@@ -30,7 +30,7 @@ Description: The Rcpp package provides a C++ library which facilitates the
  to use than the equivalent low-level loop code. The "Rcpp-sugar" vignette
  gives an overview of the feature.
  .
- Several examples are included, and 745 unit tests in 328 unit test functions
+ Several examples are included, and 753 unit tests in 335 unit test functions
  provide additional usage examples.
  .
  An earlier version of Rcpp, containing what we now call the 'classic Rcpp
