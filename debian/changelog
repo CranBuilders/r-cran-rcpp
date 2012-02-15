@@ -1,3 +1,11 @@
+rcpp (0.9.10-1) unstable; urgency=low
+
+  * New release
+
+  * debian/control: Updated (Build-)Depends: to current R version
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 15 Feb 2012 07:10:16 -0600
+
 rcpp (0.9.9-1) unstable; urgency=low
 
   * New release
