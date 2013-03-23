@@ -4,3 +4,7 @@ inst/doc/latex
 inst/doc/man
 build
 inst/doc/jss.bst
+^.*\.Rproj$
+^\.Rproj\.user$
+inst/include/Rcpp/preprocessor
+inst/include/Rcpp/sugar/functions/impl
