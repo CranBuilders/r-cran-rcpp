@@ -1,10 +1,3 @@
-rcpp (0.12.4-1~bpo8+1) jessie-backports; urgency=medium
-
-  * Rebuild for jessie-backports.
-  * Use versioned dependency for r-base-dev as available in Jessie
-
- -- Andreas Tille <tille@debian.org>  Wed, 13 Apr 2016 13:29:58 +0200
-
 rcpp (0.12.4-1) unstable; urgency=medium
 
   * New upstream release
