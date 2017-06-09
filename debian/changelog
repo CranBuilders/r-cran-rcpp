@@ -1,3 +1,15 @@
+rcpp (0.12.9-1~bpo8+1) jessie-backports; urgency=medium
+
+  * Rebuild for jessie-backports.
+
+ -- Andreas Tille <tille@debian.org>  Fri, 09 Jun 2017 18:19:53 +0200
+
+rcpp (0.12.9-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 14 Jan 2017 09:18:21 -0500
+
 rcpp (0.12.8-1) unstable; urgency=medium
 
   * New upstream release
@@ -26,6 +38,13 @@ rcpp (0.12.5-1) unstable; urgency=medium
   * debian/control: Set Build-Depends: to current R version 
 
  -- Dirk Eddelbuettel <edd@debian.org>  Sat, 14 May 2016 10:56:27 -0500
+
+rcpp (0.12.4-1~bpo8+1) jessie-backports; urgency=medium
+
+  * Rebuild for jessie-backports.
+  * Drop version restriction from r-base-dev
+
+ -- Andreas Tille <tille@debian.org>  Tue, 12 Apr 2016 22:56:49 +0200
 
 rcpp (0.12.4-1) unstable; urgency=medium
 
