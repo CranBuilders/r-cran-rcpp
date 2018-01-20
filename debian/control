@@ -3,7 +3,7 @@ Section: gnu-r
 Priority: optional
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Build-Depends: debhelper (>= 7.0.0), r-base-dev (>= 3.4.3), cdbs, r-cran-codetools, r-cran-pkgkitten
-Standards-Version: 4.1.1
+Standards-Version: 4.1.3
 Homepage: http://dirk.eddelbuettel.com/code/rcpp.html
 
 Package: r-cran-rcpp
