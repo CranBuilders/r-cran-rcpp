@@ -1,10 +1,16 @@
+rcpp (0.12.16-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 08 Mar 2018 06:31:16 -0600
+
 rcpp (0.12.15-1) unstable; urgency=medium
 
   * New upstream release
 
   * debian/control: Set Standards-Version: to current version 
 
- -- Dirk Eddelbuettel <edd@debian.org>  Sat, 20 Jan 2018 17:04:52 -0600
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 16 Jan 2018 06:04:40 -0600
 
 rcpp (0.12.14-1) unstable; urgency=medium
 
