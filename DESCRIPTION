@@ -1,7 +1,7 @@
 Package: Rcpp
 Title: Seamless R and C++ Integration
-Version: 0.10.4
-Date: $Date: 2013-06-23 10:24:59 -0500 (Sun, 23 Jun 2013) $
+Version: 0.10.5
+Date: $Date: 2013-09-28 12:49:51 -0500 (Sat, 28 Sep 2013) $
 Author: Dirk Eddelbuettel and Romain Francois, with contributions 
  by Douglas Bates, John Chambers and JJ Allaire
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
@@ -37,7 +37,7 @@ Description: The Rcpp package provides R functions as well as a C++ library
  package development. Attributes are built on top of Rcpp modules and
  their implementation is based on previous work in the inline package.
  .
-  Many examples are included, and around 881 unit tests in 412 unit
+  Many examples are included, and around 872 unit tests in 422 unit
  test functions provide additional usage examples.
  .
   An earlier version of Rcpp, containing what we now call the 'classic Rcpp
@@ -51,9 +51,10 @@ Description: The Rcpp package provides R functions as well as a C++ library
  see 'citation("Rcpp")' for details.
 Depends: R (>= 2.15.1)
 Imports: methods
-Suggests: RUnit, inline, rbenchmark
+Suggests: RUnit, inline, rbenchmark, highlight
+VignetteBuilder: highlight
 URL: http://www.rcpp.org, http://dirk.eddelbuettel.com/code/rcpp.html, http://blog.r-enthusiasts.com/tag/rcpp/
 License: GPL (>= 2)
 BugReports: http://r-forge.r-project.org/tracker/?atid=637&group_id=155&func=browse
-MailingList: Please send questions and comments regarding Rcpp to rcpp-devel@lists.r-forge.r-project.org
-Packaged: 2013-06-24 00:20:01.52137 UTC; edd
+MailingList: Please send questions and comments regarding Rcpp to rcpp-devel@lists.r-forge.r-project.or
+Packaged: 2013-09-28 17:53:51.915652 UTC; edd
