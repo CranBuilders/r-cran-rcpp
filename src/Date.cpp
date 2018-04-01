@@ -28,7 +28,6 @@
 #include <Rcpp/Date.h>
 #include <Rcpp/Function.h>
 #include <time.h>		// for gmtime
-#include <unistd.h>		// for read and close on Solaris
 
 namespace Rcpp {
 
@@ -177,6 +176,7 @@ namespace Rcpp {
 #endif
 
 #include "stdlib.h"
+
 #include "stdint.h"
 #include "stdio.h"
 #include "fcntl.h"
