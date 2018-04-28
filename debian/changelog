@@ -1,6 +1,7 @@
-rcpp (0.12.16-2) unstable; urgency=medium
+rcpp (0.12.16-1trusty1) trusty; urgency=medium
 
-  [unreleased]
+  * PPA build for trusty and R 3.5.0
+
   * debian/control: Set Build-Depends: to current R version
   * debian/control: Set Standards-Version: to current version 
   * debian/control: Add Vcs-Browser: and Vcs-Git:
