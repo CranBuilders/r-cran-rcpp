@@ -1,3 +1,14 @@
+rcpp (0.12.16-2) unstable; urgency=medium
+
+  [unreleased]
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 27 Apr 2018 19:42:22 -0500
+
 rcpp (0.12.16-1) unstable; urgency=medium
 
   * New upstream release
