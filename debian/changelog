@@ -7,7 +7,9 @@ rcpp (0.12.16-2) unstable; urgency=medium
   * debian/control: Switch from cdbs to dh-r
   * debian/rules: Idem
 
- -- Dirk Eddelbuettel <edd@debian.org>  Fri, 27 Apr 2018 19:42:22 -0500
+  * debian/control: Change Depends to r-cran-littler   (Closes: #897973)
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 05 May 2018 07:16:46 -0500
 
 rcpp (0.12.16-1) unstable; urgency=medium
 
