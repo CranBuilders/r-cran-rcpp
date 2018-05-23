@@ -1,6 +1,7 @@
-rcpp (0.12.16-2) unstable; urgency=medium
+rcpp (0.12.17-1) unstable; urgency=medium
 
-  [unreleased]
+  * New upstream release
+
   * debian/control: Set Build-Depends: to current R version
   * debian/control: Set Standards-Version: to current version 
   * debian/control: Add Vcs-Browser: and Vcs-Git:
@@ -9,7 +10,7 @@ rcpp (0.12.16-2) unstable; urgency=medium
 
   * debian/control: Change Depends to r-cran-littler   (Closes: #897973)
   
- -- Dirk Eddelbuettel <edd@debian.org>  Sat, 05 May 2018 07:16:46 -0500
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 22 May 2018 21:49:21 -0500
 
 rcpp (0.12.16-1) unstable; urgency=medium
 
