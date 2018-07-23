@@ -1,3 +1,13 @@
+rcpp (0.12.18-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Build-Depends: to 'debhelper (>= 10)'
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Jul 2018 08:45:35 -0500
+
 rcpp (0.12.17-1) unstable; urgency=medium
 
   * New upstream release
