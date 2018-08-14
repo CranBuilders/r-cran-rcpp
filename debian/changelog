@@ -1,6 +1,20 @@
-rcpp (0.12.16-1trusty1) trusty; urgency=medium
+rcpp (0.12.18-1trusty1) trusty; urgency=medium
 
-  * PPA build for trusty and R 3.5.0
+  * PPA build for trusty
+
+rcpp (0.12.18-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Build-Depends: to 'debhelper (>= 10)'
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Jul 2018 08:45:35 -0500
+
+rcpp (0.12.17-1) unstable; urgency=medium
+
+  * New upstream release
 
   * debian/control: Set Build-Depends: to current R version
   * debian/control: Set Standards-Version: to current version 
@@ -8,7 +22,9 @@ rcpp (0.12.16-1trusty1) trusty; urgency=medium
   * debian/control: Switch from cdbs to dh-r
   * debian/rules: Idem
 
- -- Dirk Eddelbuettel <edd@debian.org>  Fri, 27 Apr 2018 19:42:22 -0500
+  * debian/control: Add Depends: on r-cran-littler   (Closes: #897973)
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 22 May 2018 21:49:21 -0500
 
 rcpp (0.12.16-1) unstable; urgency=medium
 
