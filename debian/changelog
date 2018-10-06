@@ -1,3 +1,11 @@
+rcpp (0.12.19-1) unstable; urgency=medium
+
+  * New upstream release
+  
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 05 Oct 2018 21:31:11 -0500
+
 rcpp (0.12.18-1) unstable; urgency=medium
 
   * New upstream release
